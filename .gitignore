@@ -1,0 +1,5 @@
+results/*
+!results/.gitkeep
+!results/draw/.gitkeep
+**/*.pth
+**/*.png
