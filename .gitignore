@@ -3,3 +3,4 @@ results/*
 !results/draw/.gitkeep
 **/*.pth
 **/*.png
+**/*.pdf
